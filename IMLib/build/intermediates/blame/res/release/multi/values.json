@@ -1,0 +1,183 @@
+[
+    {
+        "outputFile": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 13,
+                    "endColumn": 20,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_configuration.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 50,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_configuration.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 46,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_configuration.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 46,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 61,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_configuration.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 49,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_configuration.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 47,
+                    "endOffset": 617
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_configuration.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 622,
+                    "endColumn": 53,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_configuration.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endColumn": 49,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_lib_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 61,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_lib_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 80,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_configuration.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 66,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_lib_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endColumn": 77,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_lib_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 64,
+                    "endOffset": 1074
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_lib_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1079,
+                    "endColumn": 56,
+                    "endOffset": 1131
+                },
+                "from": {
+                    "file": "D:\\xiazai\\MySmall-master\\Ronggggggggg\\IMLib\\res\\values\\rc_lib_string.xml"
+                }
+            }
+        ]
+    }
+]
